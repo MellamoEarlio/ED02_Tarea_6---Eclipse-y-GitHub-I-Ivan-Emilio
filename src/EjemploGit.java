@@ -12,6 +12,7 @@ public class EjemploGit {
 	numero1 = sc.nextInt();
 	System.out.print("Introduce segundo número: ");
 	numero2 = sc.nextInt();
+	
 	}
 }
 
